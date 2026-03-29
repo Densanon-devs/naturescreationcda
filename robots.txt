@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://densanon-devs.github.io/naturescreationcda/sitemap.xml
